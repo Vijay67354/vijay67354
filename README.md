@@ -1,17 +1,23 @@
 ### Hi there 👋
 # 💫 About Me:
-I'm currently working on a Front-end developer<br>I'm currently learning Nodejs<br>Fun fact I love to travel to some other place
 
+I'm Currently working on Nexgen Markeitng company as a Front-end Web Developer
+
+<p align="left"> <img  alt="400" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"></p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vijay-thakur-44a533239/) 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p align="left">
+  <img src="https://i.pinimg.com/originals/5c/7b/53/5c7b53a7be1dd267f24f7559584d1345.jpg" width="50px" height="50px">
+</p>
+<p align="left">
+<img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp"  width="50px" height="50px">
+  </p>
+  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vijay Thakur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vijay Thakur&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay Thakur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+GitHub Stats provides valuable insights into my coding journey, offering a visual representation of my contributions and activity over time. With its detailed analytics, I can track my progress, identify trends, and continually strive for improvement in my projects."
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vijay Thakur&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -23,6 +29,6 @@ I'm currently working on a Front-end developer<br>I'm currently learning Nodejs<
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vijay Thakur&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
